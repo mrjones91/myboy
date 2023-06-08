@@ -1,0 +1,23 @@
+{
+  "name": "myboy",
+  "version": "1.0.0",
+  "description": "learn npm myboy",
+  "main": "myboy.js",
+  "scripts": {
+    "start": "node myboy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjones91/myboy.git"
+  },
+  "keywords": [
+    "myboy"
+  ],
+  "author": "dij",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjones91/myboy/issues"
+  },
+  "homepage": "https://github.com/mrjones91/myboy#readme"
+}
